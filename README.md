@@ -1,5 +1,6 @@
-This is an aspx webpage designed with Visual Basic alongsize SQL. It functions as an invoice system that stores and retrieves car data.
 http://cb-ot-devst05.ad.wsu.edu/MF11andrew.vernon/final_proj.aspx
+This is an aspx webpage designed with Visual Basic alongsize SQL. It functions as an invoice system that stores and retrieves car data.
+
 
 View 1:
 The first view functions to record car rental information. The user will begin by selecting the car brand which filters specific models into the car model dropdownlist. For example, if Subaru is selected, all car models associated with Subaru will be listed. After a car brand and model is selected, the list will filter again to show the cars available for that model. The car models are numbered to track availability and usage information. When a specific car is selected, the starting mileage and color are automatically filled in to correspond to the data in SQL. When selecting Customer Name and the VIP checkbox, the fields are also automatically filled in to correspond to the data in SQL. There are various check-boxes to record if a car needs maintenance. 
