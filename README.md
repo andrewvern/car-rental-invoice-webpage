@@ -16,7 +16,8 @@ The third view functions for adding more car model options. When the company exp
 ## **View 4:**
 The fourth view functions for creating a new customer and reviewing past customer information. Users will be able to enter new customer information to be stored for later retrieval and are automatically assigned a CustomerID. This customer information is used in View 1 when recording car rental information and retrieving rental information. Past customer information and rental history can be viewed after selecting the Customer ID. 
 
-Code Appendix:
+## **Code Appendix**
+```
 Imports System.Data
 Imports System.Data.SqlClient
 Partial Class final_proj
@@ -716,3 +717,4 @@ Partial Class final_proj
 #End Region
 
 End Class
+```
